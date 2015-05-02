@@ -7,9 +7,9 @@ I also liked the idea of being able to use the controller with a more powerful P
 
 Ultimately, this controller is intended to be protable in the way a laptop is portable rather than how other game consoles like the PlayStation Portable or the Gameboy series are portable. 
 
-![](https://raw.githubusercontent.com/SKrupa/E190U-Lab1/master/schemeit-project.png)
+![](https://github.com/SKrupa/E190u-Final/blob/master/20150502_162149.jpg)
 
-![](https://raw.githubusercontent.com/SKrupa/E190U-Lab1/master/schemeit-project.png)
+![](https://github.com/SKrupa/E190u-Final/blob/master/20150502_162241.jpg)
 
 
 ##Results and Discussion
